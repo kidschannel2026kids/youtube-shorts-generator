@@ -1,0 +1,24 @@
+{
+  "name": "youtube-shorts-generator",
+  "version": "1.0.0",
+  "description": "Automated YouTube Shorts generator for nursery rhymes",
+  "main": "youtube-shorts-generator.js",
+  "scripts": {
+    "start": "node youtube-shorts-generator.js",
+    "test": "node --version && npm --version"
+  },
+  "keywords": [
+    "youtube",
+    "shorts",
+    "automation",
+    "nursery-rhymes",
+    "kids-content"
+  ],
+  "author": "Saud",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
