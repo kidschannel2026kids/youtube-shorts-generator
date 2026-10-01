@@ -3,7 +3,7 @@ name: Daily YouTube Shorts Generator
 on:
   schedule:
     # Runs every day at 8:00 AM UTC (you can change this time)
-    - cron: '0 8 * * *'
+    - cron: "0 8 * * *"
   # Also allow manual trigger from GitHub
   workflow_dispatch:
 
